@@ -3,14 +3,8 @@
 # see REP 141: http://ros.org/reps/rep-0141.html
 ---
 distributions:
-  groovy:
-    distribution: [groovy/distribution.yaml]
-    distribution_cache: http://ros.org/rosdistro/groovy-cache.yaml.gz
-  hydro:
-    distribution: [hydro/distribution.yaml]
-    distribution_cache: http://ros.org/rosdistro/hydro-cache.yaml.gz
-  indigo:
+  ipa-indigo:
     distribution: [indigo/distribution.yaml]
-    distribution_cache: http://54.183.65.232/rosdistro_cache/indigo-cache.yaml.gz
+    distribution_cache: http://192.168.42.22/rosdistro_cache/ipa-indigo-cache.yaml.gz
 type: index
 version: 3
