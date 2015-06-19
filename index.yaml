@@ -5,6 +5,6 @@
 distributions:
   indigo:
     distribution: [indigo/distribution.yaml]
-    distribution_cache: http://192.168.42.22/rosdistro_cache/ipa-indigo-cache.yaml.gz
+    distribution_cache: http://192.168.42.22/rosdistro_cache/indigo-cache.yaml.gz
 type: index
 version: 3
